@@ -2,6 +2,11 @@
 
 This is automation solution for pizza order
 
+# Requirements
+
+Node JS packege installed:
+
+https://nodejs.org/en/
 
 
 # Execution
